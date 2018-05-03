@@ -5,6 +5,7 @@ $title = "Electrical Training";
 $isNoFollow = "";
 include('include/header.php');
  ?>
+ 
 <section class="hero-area bg-1 text-center overly">
 	<!-- Container Start -->
 	<div class="container">
