@@ -367,15 +367,14 @@ data-original-title=""><i class="fa fa-laptop"></i> </a>
 <div class="col-sm-8">
 <!-- TRAINING PARTNERS-->
 	<div class="row">
-
 		<div class="col-md-12">
-	<div id="leaderboard-wrapper" style="padding-bottom:46px;">
-						<a href=""><img class="img-fluid" src="https://www.electricityforum.com/banmanpro/imgs/Phenix-Banner_728x90_1480660617.gif"></a>
-	</div>
-		<div class="section-title">
-					<h2>Our Eletcircal Training Partners</h2>
-					<p>special offers form reputable trainig providers and equipment manufacturers</p>
-		  </div>		
+        	<div id="leaderboard-wrapper" style="padding-bottom:46px;">
+        		<a href=""><img class="img-fluid" src="https://www.electricityforum.com/banmanpro/imgs/Phenix-Banner_728x90_1480660617.gif"></a>
+        	</div>
+        	<div class="section-title">
+      			<h2>Our Eletcircal Training Partners</h2>
+        		<p>special offers form reputable trainig providers and equipment manufacturers</p>
+        	</div>		
 		</div>	
 	</div><!--/.row-->
 		
