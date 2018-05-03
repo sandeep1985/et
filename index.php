@@ -62,8 +62,6 @@ include('include/header.php');
 	<!-- Container End -->
 </section>
 
-
-
 <!--===========================================
 =            Popular deals section            =
 ============================================-->
@@ -442,3 +440,4 @@ data-original-title=""><i class="fa fa-laptop"></i> </a>
 <?php
 include('include/footer.php');
  ?>
+ sandeep
